@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@marktext/file-icons": "^1.0.6",
-    "dompurify": "^3.4.11",
+    "dompurify": "^3.4.17",
     "element-resize-detector": "^1.2.4",
     "execall": "^3.0.0",
     "flowchart.js": "^1.18.0",
@@ -26,7 +26,7 @@
     "github-markdown-css": "^5.9.0",
     "html-tags": "^5.1.0",
     "joplin-turndown-plugin-gfm": "^1.0.12",
-    "katex": "^0.17.0",
+    "katex": "^0.18.2",
     "mermaid": "^11.15.0",
     "pako": "^2.1.0",
     "pathe": "^2.0.3",
